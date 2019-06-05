@@ -3,12 +3,10 @@
   <groupId>com.lonh.lanch</groupId>
   <artifactId>lhhttp</artifactId>
   <versioning>
-    <release>0.0.95</release>
+    <release>0.1.013.001</release>
     <versions>
-      <version>0.0.93</version>
-      <version>0.0.94</version>
-      <version>0.0.95</version>
+      <version>0.1.013.001</version>
     </versions>
-    <lastUpdated>20190421090302</lastUpdated>
+    <lastUpdated>20190605074810</lastUpdated>
   </versioning>
 </metadata>
